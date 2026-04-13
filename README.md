@@ -150,4 +150,4 @@ build.bat                build script (MinGW)
 
 ## License
 
-MIT
+Build with ❤️ Suhail
